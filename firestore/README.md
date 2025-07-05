@@ -1,5 +1,5 @@
 # Friendly Eats
-## Introduction
+## Introduction test
 Friendly Eats is a restaurant recommendation app built on Firestore.
 For more information about Firestore visit [the docs][firestore-docs].
 ## Setup
